@@ -5,16 +5,7 @@
   background: red;
   animation-name: slidedown;
   animation-duration:3s;
-}
-@keyframes slideleft{
-  from{transform: translateX(300%)}
-}
-@keyframes slideRight{
-  to{transform: translateX(300%)}
-}
-@keyframes slideup{
-  from{transform: translateY(300%)}
-}
 @keyframes slidedown{
   to{transform:translatey(300%)}
 }
+
