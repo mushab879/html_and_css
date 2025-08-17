@@ -5,7 +5,9 @@
   background: red;
   animation-name: slidedown;
   animation-duration:3s;
-@keyframes slidedown{
-  to{transform:translatey(300%)}
 }
+@keyframes slidedown{
+  from{transform:translatey(300%)}
+}
+
 
